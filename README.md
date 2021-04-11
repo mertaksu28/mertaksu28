@@ -1,17 +1,63 @@
-<h1 align = "center"> Merhaba 👋, Ben Mert AKSU </h1>
-<h3 align = "center"> Trakya Üniversitesi İşletme Enformasyon Yönetimi mezunuyum. Ayrıca Yönetim Bilgi Sistemleri okuyorum </h3>
+### Heyy Lady and Gentlemen 👋
 
-- 🌱 Şu anda öğreniyorum ** C #, Angular **
 
-- 📫 Bana nasıl ulaşırım **mertaksu28@outlook.com.tr**
+## 📌 GitHub Stats And Top Languages
 
-<h3 align = "left"> Benimle bağlantı kurun: </h3>
-<p align = "left">
-<a href="https://twitter.com/mertaksu28" target="blank"> <img align = "center" src = "https: / /cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg "alt =" mertaksu28 "height =" 30 "width =" 40 "/> </a>
-<a href =" https : //linkedin.com/in/mert-aksu-9aa7ab1ab "
-<a href="https://instagram.com/mertaksu28" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" mertaksu28 "height =" 30 "width =" 40 "/> </a>
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-<h3 align =" left "> Diller ve Araçlar: </h3>
-<p align = "left"> <a href="https://angular.io" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ angularjs / angularjs-original-wordmark.svg "alt =" angularjs "width =" 40 "height =" 40 "/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / csharp / csharp-original.svg "alt =" csharp "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. w3schools.com/css/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src =" https: // raw. githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg "alt =" dotnet "width =" 40 "height =" 40 "/> </a> <a href = "https: // git-scm.com / "target =" _ blank "> <img src =" https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg "alt =" git "width =" 40 "height = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/ devicon / master / icons / html5 / html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.microsoft. com / en-us / sql-server "target =" _ blank "> <img src =" https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg "alt =" mssql "width =" 40 "yükseklik =" 40 "/> </a> <a href = "https://nodejs.org" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "alt =" nodejs "width =" 40 "height =" 40 "/> </a> 
-<a href="https://postman.com" target="_blank"> <img src =" https: // www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg "alt =" postacı "width =" 40 "height =" 40 "/> </a> </p>/> </a> <a href="https://postman.com" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt = "postacı" width = "40" height = "40" /> </a> </p>/> </a> <a href="https://postman.com" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt = "postacı" width = "40" height = "40" /> </a> </p>
+
+## 📚 Learning & Interested
+
+<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+
+
+## 📚 My Medium Account
+[@utkuglsvn ](https://medium.com/@utkuglsvn)
+
+## 📫 How to Reach Me
+
+
+[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
+
+## ⚡ Fun Fact
+
+I love startup culture :)
+
+Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+
+### 🔭 Start-up companies that I actively support
+
+BenzinLitre Android Developer, [benzinlitre get play store :)].
+
+<code><img height="75" src="https://www.benzinlitre.com/public/site/tema2/image/logo.svg"></code>
+
+[benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
+
+My google play store https://play.google.com/store/apps/developer?id=FoxyCode&hl=en
+
+### 🤔 How to write github proflie
+
+tr blog-> https://medium.com/@utkuglsvn/github-profilinize-readme-olu%C5%9Fturma-70f9ee897c8c
+
+en blog-> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+<!--
+**UtkuGlsvn/UtkuGlsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
