@@ -1,19 +1,15 @@
 <h1 align = "center"> Merhaba 👋, Ben Mert AKSU </h1>
 <h3 align = "center"> Trakya Üniversitesi İşletme Enformasyon Yönetimi mezunuyum. Ayrıca Yönetim Bilgi Sistemleri okuyorum </h3>
 
-<p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https: //github-profile-trophy.vercel.app/?username=mertaksu28 "alt =" mertaksu28 "/> </a> </p>
+- 🌱 Şu anda öğreniyorum ** C #, Angular **
 
-<p align =" left "> <a href =" https: // twitter .com / mertaksu28 "target =" blank "> <img src =" https://img.shields.io/twitter/follow/mertaksu28?logo=twitter&style=for-the-badge "alt =" mertaksu28 "/> < / a> </p>
+- 📫 Bana nasıl ulaşırım **mertaksu28@outlook.com.tr**
 
-- 🌱 Şu anda ** C # öğreniyorum,
-
-
-
-
-
-<a href="https://twitter.com/mertaksu28" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/twitter.svg "alt =" mertaksu28 "height =" 30 "width =" 40 "/> </a>
-<a href =" https://linkedin.com/in/mert-aksu-9aa7ab1ab "hedefi = "boş"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt = "mert-aksu-9aa7ab1ab" height = "30" width = "40" /> </a>
-<a href="https://instagram.com/mertaksu28" target="blank"> <img align = "center" src = "https: / /cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg "alt =" mertaksu28 "height ="30 "width =" 40 "/> </a>
+<h3 align = "left"> Benimle bağlantı kurun: </h3>
+<p align = "left">
+<a href="https://twitter.com/mertaksu28" target="blank"> <img align = "center" src = "https: / /cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg "alt =" mertaksu28 "height =" 30 "width =" 40 "/> </a>
+<a href =" https : //linkedin.com/in/mert-aksu-9aa7ab1ab "
+<a href="https://instagram.com/mertaksu28" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" mertaksu28 "height =" 30 "width =" 40 "/> </a>
 </p>
 
 <h3 align =" left "> Diller ve Araçlar: </h3>
