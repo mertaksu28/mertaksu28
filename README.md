@@ -1,4 +1,3 @@
-# Me
 <h1 align="center">Hi 👋, I'm Mert AKSU</h1>
 <h3 align="center">I graduated from Trakya University Business Information Management. I am also studying Management Information Systems</h3>
 
