@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#, Angular**
 
-- 📫 How to reach me **mertaksu28@outlook.com.tr**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mertaksu28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mertaksu28" height="30" width="40" /></a>
