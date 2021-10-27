@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **C#, Angular, React, JS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mertaksu28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mertaksu28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mert-aksu-9aa7ab1ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-aksu-9aa7ab1ab" height="30" width="40" /></a>
 <a href="https://instagram.com/mertaksu28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mertaksu28" height="30" width="40" /></a>
 </p>
