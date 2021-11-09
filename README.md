@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer</h3>
 
 
-<img align=center itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="200" height="200" alt="@angular">
+<img align="center" itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="200" height="200" alt="@angular">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align=center src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="200" height="2000"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="200" height="2000"/> </a>
 
 
 <h3 align="left">Languages and Tools</h3>
