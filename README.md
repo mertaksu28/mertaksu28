@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert AKSU</h1>
 <h3 align="center">Software Developer</h3>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 
-<img align="center" itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="200" height="200" alt="@angular">
-</br>
+[<img align="center" itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="200" height="200" alt="@angular">
+</br>]
 
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="200" height="2000"/> </a>
 
