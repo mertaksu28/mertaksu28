@@ -4,7 +4,7 @@
 
 <center><img itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="200" height="200" alt="@angular"></center>
 
-
+<center> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></center>
 
 
 <h3 align="left">Languages and Tools</h3>
