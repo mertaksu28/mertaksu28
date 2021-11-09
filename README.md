@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert AKSU</h1>
 <h3 align="center">Software Developer</h3>
 
-<svg width="188px" height="200px" viewBox="0 0 188 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 2</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+
         <g id="Group-2">
             <polygon id="Shape" fill="#DD0031" points="94 0 94 0 94 0 0.9 33.2 15.1 156.3 94 200 94 200 94 200 172.9 156.3 187.1 33.2"></polygon>
             <polygon id="Shape" fill="#C3002F" points="94 0 94 22.2 94 22.1 94 123.4 94 123.4 94 200 94 200 172.9 156.3 187.1 33.2"></polygon>
@@ -41,10 +36,7 @@
                     <polygon id="Shape" points="82.788 119.6 95.741 105.218 95.741 95.4 82.788 103.865"></polygon>
                     <polygon id="Shape" points="70.639 117.819 43.728 117.819 38.391 125.128 34.505 123.11 43.601 113.984 70.865 113.984 79.85 123.11 76.04 125.128"></polygon>
                 </g>
-            </g>
-        </g>
-    </g>
-</svg>
+
 
 
 
