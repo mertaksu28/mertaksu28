@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-<img itemprop="image" class="center" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="500" height="500" alt="@angular">
+<center><img itemprop="image" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" width="250" height="250" alt="@angular"></center>
 
 
 
