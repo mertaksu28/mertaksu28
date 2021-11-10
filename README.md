@@ -1,8 +1,5 @@
 <h1 align="center">Software Developer</h1>
 
 
-<html align="center">
 
-<body ><img align="center " src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif" width="200" height="200" ></body>
-
-</html>
+![angular](https://user-images.githubusercontent.com/65791804/141026875-8e9c0727-ed0e-4701-8530-8394644ef3a8.gif)
