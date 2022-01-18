@@ -1,2 +1,1 @@
-
-<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+<a href="https://icons8.com/icon/t5K2CR8feVdX/react">React icon by Icons8</a>
